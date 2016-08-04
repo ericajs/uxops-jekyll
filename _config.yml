@@ -1,0 +1,20 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# site settings
+title: UXOPS
+email: erica@yext.com
+description: > # this means to ignore newlines until "baseurl:"
+  Our time is our mantra: get things done.
+
+# the subpath of your site, e.g. /blog
+baseurl: ""
+
+# the base hostname & protocol for your site
+url: "http://uxops.net"
+
+twitter_username: ericajaclyn
+github_username:  ericajs
+
+# Build settings
+markdown: kramdown
